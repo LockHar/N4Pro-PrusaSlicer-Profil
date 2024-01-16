@@ -1,6 +1,6 @@
 # Elegoo Neptune 4 Pro - PrusaSlicer Profils
 **Its just my personal profils for PrusaSlicer if you need it**
-[last release](https://github.com/TheJMaster28/ElegooNeptuneThumbnailPrusa/releases)
+([last release](https://github.com/LockHar/N4Pro-PrusaSlicer-Profil/releases/tag/2024.01v0))
 
 How to import the printer and print config :
 >File / Import / Config and select the .ini file
